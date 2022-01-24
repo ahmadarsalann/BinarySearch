@@ -1,8 +1,8 @@
-# What the Program is about
-The program idea belongs to my professor Ian Finalayson
-
 # Data Structurs Used:
 Binary Search Tree
+
+# What the Program is about
+The program idea belongs to my professor Ian Finalayson
 
 The program does spell checking with a binary search tree.
 
